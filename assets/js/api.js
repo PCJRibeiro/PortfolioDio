@@ -1,7 +1,7 @@
 
 
 async function fetchProfileData(){
-    const url = '';
-    const fetching = fetch(url)
+    const url = 'https://raw.githubusercontent.com/PCJRibeiro/PortfolioDio/main/profile.json';
+    const fetching = await fetch(url)
     return await fetching.json()
 }

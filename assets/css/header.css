@@ -43,7 +43,7 @@
 .infor .job::before{
     background-image: url('/assets/img/job.svg');
 }
-.infor .mail::before{
+.infor .email::before{
     background-image: url('/assets/img/mail.svg');
 }
 .infor .number::before{
