@@ -45,31 +45,42 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "E.R.P gestão de pagamentos",
+      "url": "https://github.com/Baptista012/RHSolutionsDesktop",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Portfolio Artista",
+      "url": "https://github.com/PCJRibeiro/Portifolio-Antono",
+      "github": true
+    },
+    {
+      "name": "API com interação com banco de dados",
+      "url":"https://github.com/PCJRibeiro/Portifolio-Antono",
       "github": true
     }
   ],
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "FullStack Developer / Freelancer",
+      "period": "November 2023 - Atual",
+      "description": "Desenvolvimento de sites e aplicativos para empresas e pessoas físicas."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "Desenvolvedor Ecommerce",
+      "period": "abril 2022 - julho 2022",
+      "description": "Desenvolvimento de site e Ecommerce para empresa de roupas."
+    }
+  ],
+  "education": [
+    {
+      "name": "UNIP - Graduação em Análise e desenvolvimento de sistemas",
+      "period": "São Paulo - 2024"
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Curso Desenvolvedor C# DIO / Udemy",
+      "period": "2023/2024"
     }
   ]
+
 }
