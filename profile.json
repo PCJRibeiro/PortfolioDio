@@ -1,6 +1,6 @@
 {
   "name": "Paulo Ribeiro",
-  "photo": "https://github.com/PCJRibeiro/PortfolioDio/blob/main/assets/img/eu.jpg",
+  "photo": "https://raw.githubusercontent.com/PCJRibeiro/PortfolioDio/main/assets/img/eu.jpg",
   "job": "FullStack Developer",
   "location": "São Paulo - SP",
   "phone": "(11) 9 5843-0751",
@@ -9,27 +9,27 @@
     "hardSkills": [
       {
         "name": "Nodejs",
-        "logo": "https://github.com/PCJRibeiro/PortfolioDio/blob/main/assets/img/skill/Node.svg"
+        "logo": "https://raw.githubusercontent.com/PCJRibeiro/PortfolioDio/cddb47e25ed44adcd5389fc8e6c667762ad17757/assets/img/skill/Node.svg"
       },
       {
         "name": "DotNEt",
-        "logo": "https://github.com/PCJRibeiro/PortfolioDio/blob/main/assets/img/skill/dotNet.svg"
+        "logo": "https://raw.githubusercontent.com/PCJRibeiro/PortfolioDio/cddb47e25ed44adcd5389fc8e6c667762ad17757/assets/img/skill/dotNet.svg"
       },
       {
         "name": "AWS",
-        "logo": "https://github.com/PCJRibeiro/PortfolioDio/blob/main/assets/img/skill/aws.svg"
+        "logo": "https://raw.githubusercontent.com/PCJRibeiro/PortfolioDio/cddb47e25ed44adcd5389fc8e6c667762ad17757/assets/img/skill/aws.svg"
       },
       {
         "name": "Azure",
-        "logo": "https://github.com/PCJRibeiro/PortfolioDio/blob/main/assets/img/skill/azure.svg"
+        "logo": "https://raw.githubusercontent.com/PCJRibeiro/PortfolioDio/cddb47e25ed44adcd5389fc8e6c667762ad17757/assets/img/skill/azure.svg"
       },
       {
         "name": "Mongodb",
-        "logo": "https://github.com/digitalinnovationone/js-developer-portfolio/blob/main/data/imgs/mongodb.png"
+        "logo": "https://raw.githubusercontent.com/PCJRibeiro/PortfolioDio/cddb47e25ed44adcd5389fc8e6c667762ad17757/assets/img/skill/mongo.svg"
       },
       {
         "name": "MySQL",
-        "logo": "https://github.com/PCJRibeiro/PortfolioDio/blob/main/assets/img/skill/Mysql.svg"
+        "logo": "https://raw.githubusercontent.com/PCJRibeiro/PortfolioDio/cddb47e25ed44adcd5389fc8e6c667762ad17757/assets/img/skill/Mysql.svg"
       }
     ],
     "softSkills": [
