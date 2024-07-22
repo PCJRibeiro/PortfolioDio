@@ -43,7 +43,7 @@
     height: 2rem;
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url('assets/img/seta.svg');
+    background-image: url('../img/seta.svg');
     transition: .30s;
 }
 

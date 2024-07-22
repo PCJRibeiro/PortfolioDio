@@ -41,16 +41,16 @@
 }
 
 .infor .job::before{
-    background-image: url('assets/img/job.svg');
+    background-image: url('../img/job.svg');
 }
 .infor .email::before{
-    background-image: url('assets/img/mail.svg');
+    background-image: url('../img/mail.svg');
 }
 .infor .number::before{
-    background-image: url('assets/img/number.svg');
+    background-image: url('../img/number.svg');
 }
 .infor .location::before{
-    background-image: url('assets/img/location.svg');
+    background-image: url('../img/location.svg');
 }
 
 
